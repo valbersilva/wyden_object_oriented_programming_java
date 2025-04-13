@@ -46,3 +46,12 @@ Cada pasta dentro deste repositório representa uma atividade prática ou projet
 
 Este repositório será atualizado conforme o andamento da disciplina.
 
+# Contact Information
+
+```
+Desenvolvido para:
+UniFBV Wyden <>
+Desenvolvido por: Valber Silva <valber.l.p.silva@gmail.com>
+
+README Author: Valber Silva <valber.l.p.silva@gmail.com>
+```
