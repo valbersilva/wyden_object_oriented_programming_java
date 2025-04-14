@@ -14,6 +14,7 @@ O projeto foi desenvolvido como parte das atividades da disciplina de Programaç
 
 ## 📁 Estrutura do Projeto
 
+```
 CadastroEscola/
 ├── src/
 │   ├── Pessoa.java
@@ -21,6 +22,7 @@ CadastroEscola/
 │   ├── Professor.java
 │   ├── TecnicoAdministrativo.java
 │   └── Main.java
+```
 
 ## 🧑‍🏫 Descrição das classes
 
